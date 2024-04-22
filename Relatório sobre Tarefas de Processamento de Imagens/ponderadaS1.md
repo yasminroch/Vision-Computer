@@ -54,7 +54,7 @@ Os produtos citados aqui se deparam com desafios como variabilidade do que se é
 - Amazon Rekognition assim como Google Cloud Vision AI também se encaixa no segmento enterprise de desenvolvimento de software como computação em nuvem, atendendo vários mercados;
 - Tesla Autopilot faz parte do segmento da indústria automobilística, com sistemas avançados de assistência ao motorista(ADAS) com carros autônomos.
 
-Teste com o produto Amazon Rekognition e resultados obtidos:
+**Teste com o produto Amazon Rekognition e resultados obtidos:**
 
 Primeiramente, foi acessado o serviço Amazon Rekognition no console AWS, o serviço é facilmente manipulável, sendo que na primeira tela após iniciar este serviço já é possível fazer o envio de uma imagem a sua escolha para ser analisada. Em questões não só éticas, mas de características físicas de pessoas reais, a visão computacional pode ter dificuldades de classificar precisamente, ao usar este serviço, é possível verificar que mesmo uma tecnologia de um dos serviços mais conhecidos pode estar vulnerável a vieses. A seguir será listada cada etapa deste processo:
 
